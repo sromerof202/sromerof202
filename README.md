@@ -8,7 +8,7 @@
 
 🌱 I’m currently:
 - Pursuing an Engineering Master at Seoul National University in Technology Management, Economics, and Policy Program, with an integrated major in smart cities technologies.
-- Working as a Data Analyst at Unnitour in Seoul, South Korea.
+- Part time, working as a Data Analyst at Unnitour in Seoul, South Korea.
   
 💞️ I’m looking to collaborate on:
 - Projects or research related to smart cities & Fintechs.
