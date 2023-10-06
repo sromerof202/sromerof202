@@ -15,6 +15,7 @@
 - Projects or researches revolving around Technology Management, Economics, and Policy.
 - Implementing Google Analytics for business insights.
 - Financial and risk analysis-related initiatives.
+- Innovative tech projects in the realm of urban development and management.
 
 📫 **Contact Information**:
 - Email: Samuelromero.fortin@gmail.com or fortin@snu.ac.kr
