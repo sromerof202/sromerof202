@@ -3,7 +3,7 @@
 👀 I’m interested in:
 - Data Analytics and its application in various domains.
 - Financial, technological, and market risks.
-- Smart city technologies and urban innovation.
+- Smart city technologies(such as IoT and AI) and urban innovation.
 - Policy-making and technology management in global settings.
 
 🌱 I’m currently:
