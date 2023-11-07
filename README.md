@@ -7,10 +7,6 @@
 - International Project Management, especially within diverse cultural contexts.
 - Smart cities technologies such as IoT, AI, etc.
 
-🌱 **Current Endeavors**:
-- At Seoul National University, I am pursuing my Engineering Master's in Technology Management, Economics, and Policy Program. With an Integrated major in smart cities technologies. 
-- Actively contributing to Unnitour as a Data Analyst.
-
 💞️ **Open for Collaboration**:
 - Projects or researches revolving around Technology Management, Economics, and Policy.
 - Implementing Google Analytics for business insights.
@@ -19,7 +15,7 @@
 
 📫 **Contact Information**:
 - Email: Samuelromero.fortin@gmail.com or fortin@snu.ac.kr
-- LinkedIn: [Samuel Romero Fortin's LinkedIn](https://www.linkedin.com/in/samuelromerofortin/)
+- LinkedIn:(https://www.linkedin.com/in/samuelromerofortin/)
 
 <!---
 sromerof202/sromerof202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
