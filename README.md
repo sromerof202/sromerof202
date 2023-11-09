@@ -9,7 +9,7 @@
 
 💞️ **Open for Collaboration**:
 - Projects or researches revolving around Technology Management, Economics, or Policy.
-- Implementing Google Analytics for business insights.
+- Implementing Analytics for business insights.
 - Financial and risk analysis-related initiatives.
 - Innovative tech projects in the realm of urban development and management.
 
