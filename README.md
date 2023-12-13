@@ -7,7 +7,8 @@
 - International Project Management, especially within diverse cultural contexts.
 - Smart cities technologies such as IoT, AI, etc.
 
-💞️ **Open for Collaboration**:
+🌐  **Open for Collaboration**:
+- Tech & Platform Development
 - Projects or researches revolving around Technology Management, Economics, or Policy.
 - Implementing Analytics for business insights.
 - Financial and risk analysis-related initiatives.
