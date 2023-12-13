@@ -8,7 +8,7 @@
 - Smart cities technologies such as IoT, AI, etc.
 
 🌐  **Open for Collaboration**:
-- Tech & Platform Development
+- Platform Development & optimization 
 - Projects or researches revolving around Technology Management, Economics, or Policy.
 - Implementing Analytics for business insights.
 - Financial and risk analysis-related initiatives.
