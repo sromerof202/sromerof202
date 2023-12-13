@@ -1,6 +1,7 @@
 👋 Greetings, I'm Samuel Romero Fortin, known on GitHub as @sromerof202.
 
 🔍 **Interests**:
+- Robotics applications 
 - Application of Data Analytics in Business Contexts.
 - Enhancing financial, technological, and operational risk assessment methodologies.
 - Leveraging IT to streamline and improve business processes.
